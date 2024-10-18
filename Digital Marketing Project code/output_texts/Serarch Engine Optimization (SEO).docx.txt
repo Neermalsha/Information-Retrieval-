@@ -1,0 +1,677 @@
+
+                               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Understanding the Basics of Search Engine Optimization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a publication of
+digital firefly
+marketing
+
+Introduction to SEO
+What is search engine optimization? It’s a question that is asked re- peatedly by people with a website. It sounds REALLY important, but most people find themselves flummoxed because they don’t know really where to start in getting their website optimized for search.
+
+Search engine optimization consists of two processes. The first is getting a website configured so a search engine like Google can index it correctly and the second is making sure your website is in the top search results when someone Googles your products or brand names.
+
+Understanding Search
+
+Search is still a relatively new phenomenon, after all Google is only a teenager in terms of how long it’s been around. The best way to think about search is to think of Google and Bing as Internet librarians. They take in ridiculous amounts of data from websites all over the world, put it in an index and when someone comes to their website with a query like “Who won best picture in 1948?” they search their index to find an appropriate reference and then serve up those answers to the user on their web- page.
+
+But how did they actually get that data and how did Google know that Hamlet won best picture in 1948?
+
+
+Google won best 1948?
+
+
+
+Well it all starts with one website which leads to another and another...
+
+
+What Google and Bing do all day long, 365 days a year is crawl the Internet and they do that with a program called Spiders. Spiders start on websites they deem as highly valued, like CNN.com or the New York Times and they click on every link on both CNN and the New York Times which leads them to other web- sites where they again click on every link that leads them to more websites so after awhilethey start to map out most of the webpages on the Internet.
+
+When the Google spiders come across something new, they put that web page into its index for future reference and there it sits in the Google data warehouse until someone comes to Google.com and starts a search.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feel Free to Share
+
+4
+
+
+One basic tenet of SEO is to try and understand how people search on Google and Bing so you can craft strategies on those search patterns. The first thing to understand about how people search is that people search with intent. They are looking for something. The intent people search with can be categorized into the following:
+?
+Solve	Learn
+
+
+
+
+
+Buy
+
+
+
+
+
+
+Each of these intents leads to different kinds of search categories. People will typically fall into the following kinds of searches:
+
+Feel Free to Share
+
+
+Navigational Searches They are looking for a specific website but they don’t re- member the exact URL.
+
+Informational Searches This is Google’s bread and butter. Stuff like What is the weather in Charlotte NC? and Who won best actor in 1964? People will usually tend to form these searches in the form of a question and the goal is finding the information itself.
+
+Commercial Investigation People working at businesses will be given tasks by their supervisors. Things like, hey we need a website built or can you find a good landscaper in San Diego. These are the modern day equivalents of looking in the Yellow Pages. Rath- er than turning to the yellow pages, they turn to Google to find reputable businesses to contact. These may or may not lead to commerce or leads, but presents an opportunity for both, same as someone seeing your ad in the Yellow Pages.
+
+Looking for a Purchase People will search the Internet when they are ready to buy. This will typically spike around specific holidays as people look for very specific gifts for ideas for gifts. Things like best father’s day gifts.
+
+
+When someone Googles, who won best picture in 1948, Google goes into it’s index and pulls out every webpage that mentions best picture in 1948. It then applies its secret sauce, the Google algo- rithm, and ranks those pages from 1 - infinity and serves them up to the user and it does this very quickly. My search took 0.28 seconds.
+
+The algorithm that Google applies is a very complicated mathe- matical formula and asks over 200 questions to make sure it’s giv- ing users the right responses. One of the most important questions it asks is “what’s on this page that’s relevant to this query?” and that leads us to keywords.
+
+
+What is a Keyword
+First off, a keyword is not just a word, it can also be a phrase. This keyword or combination of keywords are what people enter into Google, Bing, Facebook, YouTube, LinkedIn or other sites to find stuff. They can exist in the form of a question such as what is a keyword? They can be simple phrases such as john cashman princeton nj or they can be very long phrases looking for specific informa- tion such as address digital firefly marketing princeton nj.
+
+
+
+There aren’t good or bad keywords
+
+
+
+
+
+
+
+
+All of these phrases are considered keywords. But what sepa- rates one keyword from another? Are there good keywords and bad keywords? The answer is there aren’t good and bad keywords, but there are competitive and non-competitive keywords that will help you start to understand the best way to get Google to get traffic to your website.
+
+
+Long Tail Keywords Competitive and non competitive words and phrases.
+Google estimates that over 20% of its searches are brand new, meaning no one has ever searched for that phrase before. This leads us into what’s called the long tail of keywords and its a graph that looks like this.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+On the high end are very competitive keywords like “coffee” or “jewelry” these keywords are going to be ranked by very large companies and websites. The words receive billions of searches every month. As phrases become more pointed, the competition, on average, decreases as does the amount of search traffic, so it becomes easier for smaller websites to begin to show up in Google results for either search traffic that does not exist yet or for some very pointed search results. Therefore, over time if you have lots of web pages with unique and highly targeted keywords, that will end up being worth more in traffic than ranking for just one highly competitive keyword.
+
+Defining a Keyword Strategy
+Once people understand what a keyword is, it’s natural to want to start to use that knowl- edge across your website properties.
+
+This is commonly referred to as keyword strategy.The first step in figuring out a keyword strate- gy to to list your services, industry and products. You can do this on a piece of paper or word doc. Let’s take an example of a coffee roaster in Princeton, NJ
+
+What do you sell?
+Coffee, coffee drinks and coffee beans.
+
+Where do you sell it?
+My stores are in Princeton, NJ but I ship coffee
+beans anywhere in the U.S.
+
+How do you sell it?
+People can buy in store or I can ship it to them. We accept cash, checks and credit cards. People can buy in bulk every month or one at a time.
+
+Why is your product better?
+We hand roast all of our coffee beans in small batches.
+
+Once you start getting those questions an- swers you will start to see some patterns emerge. In this example the word coffee and coffee beans appears often along with Princ- eton NJ. A keyword phrase that would work in this example would be coffee princeton nj.
+
+
+When we are very clear on what we are selling and the keywords associated with those products we move onto the next step which is trying to understand how people search for those products so we can use those searches as a basis to develop our keyword strategy. The best tool for this is Google’s keyword tool.
+
+Using Google’s keyword tool, we enter each keyword and Google will report back on the number of searches and how competitive each keyword is. They will also supply a list of key- words that are similar to the search phrase you just entered. You will get a report that looks like this:
+
+
+
+Once we have that information we need to look at the following:
+
+Take a look at how many searches and how competitive each word is. The more competitive a keyword the harder it will be to rank in Google for that keyword. Conversely the more searches there are, the more likely it will be that someone will find you by Googling you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I’m burried on the 157th page of Google’s search for
+my keyword!
+
+I’m already at the top of Google’s search for my keyword!
+
+
+
+non-competitive
+
+
+Look at the keyword ideas. Sort by competitiveness. Those words that are not competitive should be used in your website first as individual pages or blog articles.
+
+
+
+Once you come up with a list of keywords, it’s time to look at the best way to implement them and that starts to get into the heart of SEO where the rubber meats the road and that is the website structure itself
+
+Putting Keywords in Place
+
+
+
+The good news is most websites today will run off what’s called a content manage- ment system like Drupal, WordPress and Joomla. These systems are very compliant in how they work to maximize your chances of Google indexing your keywords. Websites built in Dreamweaver or in other content management systems may or may not have the right framework in place to have Google index your site, but you can check fairly easily.
+
+
+
+Dreamweaver might not have the right framework for indexing in Google
+
+
+There are four key areas where Google will search for keywords:
+Page Titles
+These normally appear in the tab of your browser and are used by Google to understand what the web page is about. You can see an example below, or click here.
+
+
+H1 Tags
+This is something only a coder could love. H1 Tags are headings on a website page. Paired with the Page Title, it gives the search engines more context to what your page is about. So if your page title says chocolate and your H1 Tags says “white chocolate” the search en- gines know that white chocolate is part of your site. H1 tags are important for SEO.
+
+
+
+Clean URL’s
+               
+
+Some of you maybe wondering why URLs would be anything but clean? This refers to the url structure. On some websites you will see a lot of gobbledy-gook like www. digitalfireflymarketing.com/#hlhldkhjglkahjd;dkjgf. Not only do you have no idea what the URL means, neither does a search engine. You need URLs that have key- words in them so Google can understand not only what the page is, but how im- portant you think it is. The farther away the the page from the front means the less important it is.
+
+Alt Tags
+            
+The old expression of a picture is worth a thousand words is the best one to describe what an alt tag is and why we can’t show you a picture. Every time an image is displayed on a website, there is an option to put an alt tag behind it so people who are visually impaired are able to get text describing the image when they are looking at a web page. Google now uses Alt Tags as a way to index images since Google can only read text and does not (yet) recognize images.
+
+
+What Keywords describe You?
+What keywords describe your business? This is known as keyword research or
+
+strategy. For example a golf academy would use keywords like golf lessons or golf instruction.
+
+
+“golf lessons
+“golf instruction
+18
+“golf academy
+
+
+
+
+
+
+Does your website contain the appropriate keywords in the right places? You can look at the URLs of your website and the titles. If your website contains these phrases then they will probably be OK..
+
+While H1 Tags, Page Titles, Alt Tags and Clean URLs provide a frame to build SEO compli- ance, it’s keywords that provide everything else. They are the drywall, the drapes, the fur- niture, and even the flooring that will either make your website shine or leave it in obscurity. Look at each web page on your site in those four areas and see if you can see any of the keywords in your list in those areas. If you can’t see them, neither can Google.
+
+
+If you can’t see those keywords or see keywords that are really obscure, the next step is to start to change them out. Each content management system is different so you will need to do a bit of research on how your content management system works. How- ever, there are some similarities that can provide some immediate benefit.
+
+Titling Your Pages most systems will use the title of your page as the URL, Heading and Page Title. Consider changing the title of the page. Google will pick up the change the next time it visits your site.
+
+Images look at each image in your system, does it have something called Alt Tag. Is it blank? If it is, then put in a quick keyword description for accurate taging.
+
+
+
+This photo is clearly identified by an Alt Tag.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May easily be miscon- strued as Times Square or Las Vegas
+
+Links and SEO
+Now that we have an understanding about keywords, their strategies and how to make sure they are on the website correctly, it’s time to understand how to separate the great websites from the good and that has to do with links.
+
+Google uses links to find websites. In order to rank websites, one of the big drivers is the number of websites and pages that link to your website. Not only do the number of web- sites make a difference, but the quality or “authority” a website has makes a difference as well. For example, a link from CNN.com will be worth more in Google’s algorithm or eyes than a link from joe’s site on fishing that doesn’t have anyone linking to it. SEO is all about increasing the probability that Google will put your site within the top ten when people search on a phrase. Here are some general strategies to increase the number of links and help with SEO.
+
+
+
+Press Release
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Consider issuing a press release. You can use PR Newswire to easily set up and distribute a press release for a couple hundred bucks. When that press release is distributed it will be picked up by a number of news companies and bloggers around the subject of your
+website for example fashion. Those bloggers will either repost your press release or use it for original content. One thing to always ensure in the press release is to always have a linked domain name. We have seen too many press releases that don’t link to their own website and lose the opportunity for links.
+
+
+Submit your site to directories. Some are free and some require a payment to get list- ed. One that should always be used is DMOZ.org, which is free and is used by all the search engines as a reference for websites. There are directories on just about every- thing from crafts to technology to politics. If you want to get your site some links and found, submitting to directories is a great place to start. To get started, try Googling “your industry directories” where your industry is where your company does business, like retail or technology.
+
+
+
+
+
+Comment on pertinent blogs. One strategy that can work if done day in and day out is com- menting on blogs and websites that are in your industry. Typically most blogs will allow you to post a URL as a commenter as well as a URL within the comment field. Every blog will have different rules on comment submissions so use your common sense on when to comment and being respectful of the audience. This strategy is typically low value, but can have an impact if done over many months as the amount of links builds up.
+
+write pertinent content
+
+
+
+
+
+
+ 
+
+
+
+
+
+The first three strategies are active strategies to create links to your website. Creating con- tent is a passive strategy but one that can really start to pay off fairly quickly. Currently 20% of all Google searches are brand new, meaning no one has ever made that search before. By creating content, you have the possibility to capture this traffic before anyone else because you have content around that query. Secondly, creating content, especial- ly good content, allows people to link to you as a reference. The blog content can be text or images or video but should be original. Once that content is created, use social media channels to get the word out. The larger the audience the more likely it is you will get a link to your website and original piece of content. Even a couple of links can make the difference between Google’s page one and the second page. Getting on page one will drastically improve your traffic via organic search and is what links and SEO is all about.
+
+
+Google Panda
+The latest update to Google’s algorithm is called Panda. The update is designed to give websites who create original content all of the search engine credit. This is Google’s at- tempt to look at search results from a quality point of view, much the way a human might look at a website result. Some things that the new algorithm takes into account that will increase or decrease your search rankgings:
+
+
+
+Outbound Links Don’t just be inward fo- cus, link out to other websites for references.
+
+Engagement The Longer someone is on your site the better. Google interprets this result as people finding your content interest- ing.
+
+Bounce Rate This measurement is how many people quickly leave your site without viewing more than one page. The higher the bounce rate, the lower quality your web page is perceived to be.
+
+Social Media Are people liking the page, rettweeting, pinning it or using
++1? The higher the numbers in social media the more Google will be- lieve people are finding your webpage interesting.
+Article structure It needs to be clean, have a headline and be linked to other places on your website
+
+
+
+
+
+
+
+
+Feel Free to Share
+
+22
+
+
+
+At the end of the day, what this means for most folks out there is that if you are already playing by the rules, you aren’t going to be effected by Panda. There are some things to avoid in order to keep Panda from keeping your website from ranking successfully:
+
+
+Don’t copy and paste content from other websites like
+articles that have been written about you. Provide the link.
+
+Don’t be shallow. A couple sentence paragraph with a
+link is not going to be relevant.
+
+Use pictures and video to create content. Ask the ques- tion: would you find this interesting or helpful? Does it answer your search?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feel Free to Share
+
+
+International SEO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As companies grow, one of the things they start to consider is going international.
+Understanding how SEO works outside the
+U.S. can help smooth the transition and save a lot of money. Thankfully if you know how domestic SEO works then you are probably 90% of the way to getting your site found outside the U.S. To get found by local search engines, the best thing to do is like you did in the U.S., start out with a plan like the one following:
+
+
+Know your market. While Google owns 65% of the U.S. market, they own a lot more in some other countries and a lot less in others. For example, if you are going into the Chinese market you will need to have your website optimized for Baidu. If you are looking at Russia then you need to consider Yandex.
+
+
+
+Know the language. Like you did in the U.S. you need to know your local lan- guage, even U.S. English and U.K. English can have some difference in keywords. If you are going with a non-English site, you will need someone with local knowledge to let you know how people search for your product and what those keywords and phrases are. The best person in this situation is typically the salesperson you are hiring in country. Know your website system - Some content management systems like Drupal can sup- port multilingual sites, while others can’t. You need to make sure that stuff published in the U.S. can be pushed to other countries after a translation. You also need to know if you site can do languages that are very different than in the U.S. like Arabic that’s read right to left.
+
+“panlipunan media
+“social media
+“les médias sociaux
+“media sosial
+“meâin shoisialta
+
+
+
+
+“socíalní média
+“social medier
+
+“srustveni mediji
+
+
+
+Location location location - Just like the real estate market, location matters. Search engines will give more preference to a site hosted within a country rather than one outside of a country. Using a content system like Drupal can provide a master website and database in the U.S. hosting that allows a site hosted in Spain to pull infor- mation.
+
+Thankfully, the rest of the SEO evaluation is the same. You still need headings (h1 tags) Page Titles, clean URLs and Alt Tags. The only difference is these will need to be filled with language unique to the territory.
+
+
+
+
+
+
+
+
+
+Doing your own SEO Audit
+
+
+
+So now that we know enough about SEO to be dangerous how can someone do their own SEO audit?
+
+Let’s start with a keyword list. What is the name of your com- pany? What do you sell? Come up with a list of 50 keywords so you can see how many of them are on your website. Run Screaming Frog, you enter your URL at the top and the frog does the rest. You will get an output of all your webpages and how it looks to Google.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feel Free to Share
+
+27
+
+
+
+
+
+“404”
+Sort by response code. Look for 404. These are links that are broken. They need to be fixed so you can make sure Google and your potential customers can find the information you want them to find. You can fix them by either correcting the broken link to where you want it go. Start with Internal and then click on External to make sure any outbound links like say your Facebook Page is not broken
+
+
+
+
+Click on Page Titles How many are blank? How many contain just your com- pany name? How many are unique?
+How many are on your keyword list?
+
+Click on H1 - Same questions - How many are blank? How many are unique? How many of them are on your keyword list?
+
+Click on URL How many of the URLs contain gobbly gook like numbers or % signs or #s? This means your URLs aren’t clean and if you can’t see words, neither can Google. How many of your URLs contain some of your keywords? Click on Images an then click on Image Info.
+This will check the Alt Tags How many of these have blanks? How many contain your keywords.
+Steps 1-5 will give you a pretty good idea in a short amount of time on how much Google can see of your site and index it. If your site has lots of blanks or it uses your company name only, very little is going to be indexed.
+
+However, if your site contain lots of key- words, it might be simply that you need to swap out keywords for less competitive words so you can rank higher. Now that we are done with the internal audit we can look at moving to an external audit to see how we may be able to improve rankings simply by getting links submitted to Google and fixing any errors.
+
+
+
+Go to your website and enter your website in two ways the first one with www and the second without www. Did one site change to the other or did it stay as www or without www? If it didn’t change, according to Google you have two different sites and the links to your www site don’t count towards your non-www site. You can fix this by redirecting one site to the other. This one fix can have huge implications on search. Logon to Google Webmaster and choose your website. If you don’t have access, you can associate your account with Google Analytics.
+
+
+
+
+
+If you have a webmaster account set up, you will land on the Dashboard. In the right hand corner you will see errors. Click on Crawl errors. These URLs will be bad re- directs from other sites or in your own site. You will see the source of the error. By fixing these errors you can get the link credit and improve your web pages search result. Go back to the dashboard and go down to site
+map. If you have a site map, submit it to Google. This will tell Google where all your pages are so they can index them all.
+
+
+The last step in an external audit is to see how you rank againist other sites and get a base- line on how many people link to your site. One of the best sites for this is open site explorer. Enter your website URL. You will get a report and it will give you a pretty good idea of how many people link to you
+
+
+
+
+
+
+
+Domain Authority
+Your overall domain and how search engines view it as having relevance. The higher you get to 100 the better.
+Page Authority
+This measures how the search engines view your page based on the amount of links to the page and the quality of those links
+
+
+Linking root domains
+Here are the websites that link to you.
+
+
+
+
+
+
+Total links
+The total number links to your website.
+
+
+
+
+
+
+
+These numbers are updated once a month and they give website owners a very good baseline on where their website stands in the view of the search engines.
+
+
+Conclusion
+
+
+Search Engine Optimization can be a difficult subject to under- stand. We have only scratched the surface in this eBook but we hope it gives you an idea of how SEO works and how you can figure out some of the mysteries of SEO on your own.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feel Free to Share
+
+
+

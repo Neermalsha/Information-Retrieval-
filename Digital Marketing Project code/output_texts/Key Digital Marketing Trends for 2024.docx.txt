@@ -1,0 +1,132 @@
+Key Digital Marketing Trends for 2024
+One thing you can always count on with the digital marketing landscape is that it constantly changes… and moves fast! 
+
+One prime example is the amazing rise in artificial intelligence (AI) that we’ve seen during 2023. This phenomenon will continue to evolve and impact all areas of marketing in 2024. 
+
+Marketing also changes due to consumer behavior and the external environment. While global growth is set to be modest and inflation is likely to cool, according to the OECD, consumers will still be cost-conscious. Also, most people are likely to seek out brands that show they are doing something for the good of society, and not just their bottom line.  
+
+There’s a lot to do to succeed in 2024, but if you know the trends coming down the line, it’s easier to plan, strategize, and get ahead of the competition. 
+
+In this article, we’ll explore the digital marketing trends to watch out for in 2024 as we’ve learned from some of our global experts at the Digital Marketing Institute: 
+
+In social media, we explore the rise of Instagram Threads, why you should take LinkedIn seriously, and how AI is going to play more of a part in social media platforms.
+AI’s use in marketing examines the marketer’s role in driving strategy, the self-learning nature of the technology, the need for new skills, and the importance of co-creation.  
+SEO trends are focused on us preparing for Google’s Search Generative Experience (SGE) (now known as AI Overviews, or AIO), with an emphasis on valuable and shareable content, EEAT, and the value of user experience.  
+In PPC, Google Ads urges us to look at AI as an assistant and to avoid pressure from Google reps to change campaigns. 
+In digital marketing strategy, you’ll hear about the increased importance of data privacy and sustainability. 
+When it comes to digital marketing careers, 2024 will be an employers’ market, and while AI won’t take your job, someone with AI skills will.  
+Quick Guide - 12 Ways Digital Marketers Can Use ChatGPT
+Download Free
+1. Social Media Trends
+It’s going to be another interesting year for social media! In 2024, social media platforms will continue to battle for consumers’ attention and they’ll need to re-examine the way success is measured. 
+
+There may also be a shift in dominance as the continuous drama with X (formerly Twitter) leaves room for new platforms like Instagram Threads and Bluesky to rise in popularity, while other networks have the potential to gain new ground for organic traffic.
+
+Threads is on the rise
+Meta launched Threads in July 2023 and now claims to have 100 million monthly users, a number which will no doubt rise as it finally went live last week in the European Union. A rival and alternative to X, Threads is used primarily for sharing text updates and joining public conversations. 
+
+Expert tip: At a minimum, brands should have a presence on Threads, even if it’s just grabbing a username because user numbers will increase in 2024. Do your research. Have a look and see how other brands are using it, such as Canva.
+
+Retention rate is the new engagement rate
+In recent years, marketers have seen the engagement rate on organic social media activity decline. While there are many reasons for this – content quality, time of day, device – people may shift away from engagement to focus on retention in 2024.  
+
+“People will be reporting much more on retention rate than ever before. And with attention being the world's most valuable commodity, users are presented with more choice than ever before,” says Battisby. 
+
+To combat this, brands have been creating fantastic social media campaigns built around entertaining, educating, and informing audiences. The key is to drive engagement by being playful and creative.
+
+Battisby believes that social media platforms are looking to enable this by testing longer-form videos – for example, TikTok will introduce 15-minute-long uploads – and focusing more on how brands not only engage their audiences but retain viewers. 
+
+Check out this viral ten-minute example from Hilton Hotels with socialite Paris Hilton. 
+
+
+Expert tip: TikTok has a new analytics option for Reels, where you can look at your audience retention rates, watch time, and content replay.
+
+LinkedIn organic reach dominates
+LinkedIn has just hit a billion members worldwide. That’s a long way from the days when it was just a place to upload your resumé and look for a job! 
+
+In 2024, Battisby expects to see a huge rise in organic engagement on LinkedIn –  a rarity on social channels right now. 
+
+“People are updating their LinkedIn profiles, not just about work topics either – general life skills, advice, support, mental health issues, tips and leadership.”
+
+Expert tip: There’s a lot of engagement happening between creators on LinkedIn. You can switch to ‘Creator Mode’ on a personal profile, which enhances your profile and gives you access to more tools. For paid media, video ads seem to be driving the most engagement on LinkedIn.
+
+AI is being integrated into social platforms
+It’s no surprise that AI is being used by social media marketers to drive productivity. AI tools like ChatGPT and Midjourney help marketers come up with campaign concept ideas and social post ideas, and help with copy generation and text-to-image generation. 
+
+In parallel to this, social media platforms are integrating AI into their platforms. For example: 
+
+TikTok enables you to customize your feed based on AI.
+Instagram is experimenting with AI-generated stickers.
+LinkedIn is offering premium users AI features such as AI-powered profile writing assistance and ‘Top Choice Jobs’ signals.
+YouTube is experimenting with Dream Track for Shorts and Music AI tools.
+
+But you need to be aware that using AI has risks, including privacy and ethical violations. Consider your audience's attitudes toward AI. What do they feel about it? Do they like to see this kind of content? Or do they not like it?
+
+“If you generate something using AI, are you going to own up to it and label it as being created by AI?” asks Battisby. “I think this will become regulation eventually.”
+
+Expert tip: Keep an eye out for new features on each of the social platforms and watch how other brands use them to good effect. AI in Digital Marketing Trends
+There’s no doubt that AI has dominated headlines and spun the heads of many marketers. In 2024, we predict continued exponential growth in AI capabilities which will require businesses to embrace the technology and stay ahead of the rapidly evolving landscape.
+
+“49% of the value of the NASDAQ and 25% of the US stock market consists of just six companies, and they're all AI companies,” says Brian Corish, founder of AI-focused consultancy Elemental Intelligence and DMI Global Champion. 
+
+ So what does this mean for marketers?
+
+Marketing should take charge of AI strategy
+There’s some confusion about what to do with AI. Because marketing departments are closest to the consumer, they can be proactive and push forward with an AI strategy. They can use the knowledge gained over the customer journey to identify the opportunities AI can bring to enhance what a business already has. 
+
+“Marketers have the opportunity to own AI because nobody owns it in companies at the moment. It's a great opportunity for marketers to say, ‘I'm going to grasp this and be the person who helped set the strategy, who decides what we're going to do and how we're going to use AI best’,” says Ken Fitzpatrick, CEO of the Digital Marketing Institute. 
+
+Corish believes the first step is to figure out what type of company you're working in, as well as the ambition for change and the resistance to that change. Then you can strategically identify and prioritize AI projects, getting any necessary buy-in from stakeholders.
+
+When choosing an AI project, marketers need to decide whether they want to optimize processes, accelerate production, or transform the business model:
+
+Optimize: Make your internal processes more efficient (e.g. using ChatGPT to write marketing briefs).
+Accelerate: How could you use AI to make your existing products or services better? Look at the metrics that you could use and ask if AI would add enough customer value to increase the price of the product. 
+Transform: Could you use AI to create a new product, service, or business model? This is a great opportunity to go around the organization and have a conversation about the problems that people in the organization face and how AI could solve these problems. 
+Expert tip: When choosing your approach to AI, be aware of where your company is at. For example, if 80% of tasks are browser-based, there's a good chance that a lot of those will be automated. There’s no point jumping to the transform model if you’ve not audited internal processes.
+
+AI is getting better on its own – fast
+AI has been around for a long time but what’s unique about the technology is that it’s the first one that can improve by itself. 
+
+“Every previous technology needed someone to develop or deploy code or improve the product to increase capability,” says Corish. “The difference now is these AI models can increase and learn by themselves.” 
+
+Expert tip: When it comes to AI capabilities, don’t dismiss the platform’s capability based on its current maturity. Remember that the rate at which the platform is improving means that you need to revisit the tech and your AI strategy every couple of weeks or months.
+
+Marketers should nurture new skills & co-create
+There’s no denying that AI comes up trumps on the technical skill side and it is accessible to everyone. But what is it not good at?  
+
+“AI is the worst it will ever be right now,” Corish explains. “In our roles as marketers, we have to look more at our soft skills and reasoning skills because AI sucks at those things.” 
+
+It’s important to ask how we navigate an organization to get things done. That’s what’s going to be important in the next two to three years. Also, we need to look at how we co-create with AI. 
+
+“AI is not going to take your job. But someone who knows AI will. So the idea is to co-create,” concludes Corish
+
+3. SEO Trends
+SEO is changing and its future looks to be more user-centric and technology-driven. In 2024, those changes could be drastic as AI and machine learning help search engines deliver results based on user intent.  
+
+So what are the SEO trends we see in 2024? 
+
+Google’s Search Generative Engine (SGE) will grow up
+Key Digital Marketing Trends for 2024
+Google’s SGE (now AI Overviews, or AIO) is transforming the search experience with generative AI. The goal is to provide more relevant and comprehensive information to users based on questions. AIO also provides relevant links and has a conversational mode where users can follow up with more questions – in essence, have a conversation with Google. 
+
+Key Digital Marketing Trends for 2024
+The experience is due to be rolled out in 2024 and Lam believes these new ‘AI snapshots’ will have a huge impact on search. “From a traffic perspective, we are anticipating this could potentially decrease clickthrough rates for websites below this snapshot, which is scary for us in SEO,” says Lam.
+
+Expert tip: Proactively monitor when you're appearing in an AI snapshot. Because once AIO fully rolls out in (probably) early 2024 and you can access the tools to start analyzing, it will be critically important to let the data tell the story.
+
+Create content that’s worth talking about & sharing
+It’s always been important to create great content, but in 2024 if you want to appear on search results, what you create needs to be ramped up. “Your success is going to be tied to whether you can create content that's much better than AI-generated content,” says Lam.
+
+In recent months, there have been rumors about backlinks dying off. In fact, interviews with Google employees have uncovered that backlinks are not a top three ranking factor. However, Lam believes backlinks will continue to be a signal of popularity to Google, especially when it is planning to corroborate its AI snapshots with sources across the web. 
+
+Expert tip: Google is surfacing videos in high-quality imagery directly in the AIO carousel. Although the quality isn’t quite there yet, you should expect that playable videos will become a really important part of your content strategy.
+
+Create high EEAT content
+Google’s EEAT (Experience, Expertise, Authoritativeness, and Trustworthiness) framework is not a ranking factor but a component of its Search Quality Evaluator Guidelines. While this framework has existed for a decade, this year Google added an extra E for ‘Experience’. 
+
+This is significant as AI cannot generate real-world experience like people can. This gives human content marketers an advantage and cements the importance of having experts write or inform content.
+
+“As you develop your content strategy, think about how to weave in proof that the writer or person running your website has Expertise, first-hand Experience, Authority, and Trust, so they deserve to be listened to,” says Lam. 
+
+Expert tip: Make a checklist of all the EEAT signals that matter to your business and grid it like a scorecard. Look at what your competitors are doing to build trust and authority. Then grade yourself against all the things your competitors are doing and figure out how to improve. 

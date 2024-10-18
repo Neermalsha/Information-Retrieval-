@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Information Finder</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+            color: #333;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        input[type="text"] {
+            padding: 10px;
+            width: 300px; /* Width of the input box */
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-bottom: 10px; /* Space between input and button */
+        }
+
+        input[type="submit"] {
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+
+        /* Optional: Responsive design */
+        @media (max-width: 400px) {
+            input[type="text"] {
+                width: 80%; /* Make input responsive */
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Digital Marketing Information Finder</h1>
+    <form method="POST" action="/search">
+        <input type="text" name="query" placeholder="What do you want to know?" required>
+        <input type="submit" value="Search">
+    </form>
+</body>
+</html>
+

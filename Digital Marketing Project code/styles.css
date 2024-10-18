@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Makes the body full height */
+    margin: 0; /* Removes default margin */
+    font-family: Arial, sans-serif; /* Set a default font */
+    background-color: #f4f4f4; /* Optional: a light background color */
+}
+
+.container {
+    text-align: center; /* Centers text inside the container */
+}
+
+input[type="text"] {
+    padding: 10px; /* Adds some padding */
+    width: 300px; /* Sets a width for the input */
+    margin-bottom: 10px; /* Space between input and button */
+}
+
+button {
+    padding: 10px 15px; /* Adds padding to the button */
+    cursor: pointer; /* Changes the cursor on hover */
+    background-color: #007bff; /* Sets a background color */
+    color: white; /* Sets text color */
+    border: none; /* Removes border */
+    border-radius: 5px; /* Rounds the corners */
+    transition: background-color 0.3s; /* Adds a smooth transition effect */
+}
+
+button:hover {
+    background-color: #0056b3; /* Darkens the button on hover */
+}
